@@ -1,0 +1,4 @@
+This note explains how to test for 
+reference of an object , 
+whether input is changed or not during the process and 
+how to make hard copy of any nested object (... - use spread operator)
